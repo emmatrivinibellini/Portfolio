@@ -21,7 +21,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Tools | Project Description |
 |---|---|---|
-| [🌍 Global SDGs & CO₂ Emissions](https://github.com/emmatrivinibellini/Global-SDGs-CO2-Emissions-Analysis) | SQL | Integrated 3 global datasets (SDG Index 2000–2022, Sustainable Energy, Country Information) in a PostgreSQL relational database to analyse SDG performance, CO₂ emissions, and renewable energy adoption across 190+ countries. Identified Finland as the global SDG leader and revealed significant climate action gaps in fossil-fuel-rich economies. |
+| [🌍 Global SDGs & CO₂ Emissions](https://github.com/emmatrivinibellini/Global-SDGs-CO2-Emissions-Analysis) | SQL | Integrated 3 global datasets (SDG Index 2000–2022, Sustainable Energy, Country Information) in a SQL relational database to analyse SDG performance, CO₂ emissions, and renewable energy adoption across 190+ countries. Identified Finland as the global SDG leader and revealed significant climate action gaps in fossil-fuel-rich economies. |
 
 ### Python
 
